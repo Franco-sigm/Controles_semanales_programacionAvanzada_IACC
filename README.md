@@ -18,6 +18,6 @@ Uso de la libreria Tkinter para creacion de interfaz para app de escritotio.
 
 Conexión a base de datos.
 
-Uso de Tkinter para la creacion de apps de escritorio .
+
 
 
