@@ -1,5 +1,7 @@
 🩺 Aplicación de Escritorio: Registro de Pacientes – SaludTotal
-📌 Descripción General
+
+📌 Descripción General:
+
 SaludTotal es una aplicación de escritorio desarrollada en Python con Tkinter, diseñada para gestionar el registro clínico de pacientes. Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar), generar informes en PDF, y mantener una base de datos estructurada mediante MySQL.
 
 🧰 Tecnologías Utilizadas
@@ -78,4 +80,5 @@ bash
 python semana9/gui/interfaz.py
 
 🛡️ Derechos de Autor
+
 © 2025 Franco Sigm – Todos los derechos reservados. Esta aplicación fue desarrollada como parte del curso Programación Avanzada en IACC. Su uso está destinado a fines educativos y profesionales.
