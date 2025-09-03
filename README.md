@@ -1,5 +1,5 @@
 Ejercicios de Programación Avanzada en Python (IACC)
-Este repositorio agrupa los ejercicios semanales solicitados en el curso de Programación Avanzada de la carrera Ingeniería en Informática de IACC. Cada carpeta corresponde a una semana o unidad, con ejemplos y prácticas que refuerzan conceptos clave de Python.
+Este repositorio agrupa los ejercicios semanales solicitados en el ramo de Programación Avanzada de IACC. Cada carpeta corresponde a una semana o unidad, con ejemplos y prácticas que refuerzan conceptos clave de Python.
 
 Descripción
 En este repositorio encontrarás:
@@ -17,6 +17,7 @@ Algoritmos y estructuras de datos básicos (listas, diccionarios y conjuntos).
 Uso de la libreria Tkinter para creacion de interfaz para app de escritotio.
 
 Conexión a base de datos.
+
 
 
 
